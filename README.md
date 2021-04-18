@@ -1,14 +1,12 @@
 # Business Metrics Yandex Afisha
 
-# For a complete view of all graphs in the notebook, please use this link (business_metrics_of_yandex_afisha_nti)[https://nbviewer.jupyter.org/github/Emmanuel-Nti/business_metrics_yandex_afisha_nti/blob/master/business_metrics_nti.ipynb]
+# For a complete view of all graphs in the notebook, please use this link: 
+(business_metrics_of_yandex_afisha_nti)[https://nbviewer.jupyter.org/github/Emmanuel-Nti/business_metrics_yandex_afisha_nti/blob/master/business_metrics_nti.ipynb]
 
 
 | Project Description | Libraries Used | Source of Data |
 | :---------------------- | :---------------------- | :---------------------- | 
-|As an intern in the analytical department at Yandex.Afisha. My task is to analyze the business metrics of Yandex.Afisha, 
-an app that helps users find out about events like movie showings, 
-exhibitions, gigs, etc. and buy tickets. My goal is to help marketing 
-experts from Yandex.Afisha make effective investments in marketing, i.e. optimize marketing expenses. | *Pandas*, *Matplotlib.pyplot*, *Plotly*, *Seaborn*, *Numpy* | Practicum by Yandex |
+|As an intern in the analytical department at Yandex.Afisha. My task is to analyze the business metrics of Yandex.Afisha, an app that helps users find out about events like movie showings, exhibitions, gigs, etc. and buy tickets. My goal is to help marketing experts from Yandex.Afisha make effective investments in marketing, i.e. optimize marketing expenses. | *Pandas*, *Matplotlib.pyplot*, *Plotly*, *Seaborn*, *Numpy* | Practicum by Yandex |
 
 
 ## Description of Data
