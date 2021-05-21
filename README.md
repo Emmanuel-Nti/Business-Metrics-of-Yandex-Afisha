@@ -1,6 +1,6 @@
 # Business Metrics of Yandex Afisha
 
-# For a complete view of all graphs in the notebook, please use this link: 
+## For a complete view of all graphs in the notebook, please use this link: 
 [business_metrics_of_yandex_afisha](https://nbviewer.jupyter.org/github/Emmanuel-Nti/business_metrics_yandex_afisha_nti/blob/master/business_metrics_nti.ipynb)
 
 
