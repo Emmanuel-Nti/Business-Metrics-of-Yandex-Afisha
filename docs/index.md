@@ -9,7 +9,7 @@
 - Importation of the data and libraries
 - Preprocessed the data for analysis 
 - Reports and Metrics (Cohort Analysis)
-  - Products: Visit to product, sessions, retention
+  - Products: Visits to the product, sessions, retention
   - Sales: Orders, Lifetime Value (LTV), Customer Acquisition Cost(CAC)
   - Marketing: Return on Marketing Investment (ROMI)
 - Conclusion and recommendation
@@ -20,6 +20,7 @@ March 31, 2018 was a popular holiday plus observances Worldwide. This means, hol
 <p align ="center">
    <img src = "images/daily visits.png">
  </p>
+
 
 ## Sessions Per Day Vs Visits Per Day
 Unsuprisingly, sessions per day mimics visits per day.
@@ -33,6 +34,7 @@ The June 2017 cohort had the highest retention rate as at month 11. By the first
    <img src = "images/retention.png">
  </p>
  
+ 
 ## LTV Cohort Analysis
 The June 2017 cohort had the longest duration of LTV; contributed the longest time. However, the September 2017 cohort had the highest LTV. 
 May and June 2018 cohorts had the least LTVs.
@@ -40,11 +42,13 @@ May and June 2018 cohorts had the least LTVs.
    <img src = "images/ltv.PNG">
  </p>
  
+ 
 ## CAC Cohort Analysis
 CAC per cohorts shows a uniform but different costs for each cohort.The August 2017 cohort had the highest cost in a given month while the May 2018 cohort had the least.
 <p align ="center">
    <img src = "images/cac.PNG">
  </p>
+ 
  
 ## ROMI Cohort Analysis
 The September 2017 cohort had the highest return on investments, followed by the June 2017 cohort. 
@@ -69,7 +73,6 @@ May 2018 cohort had the lowest return on investments. No cohort has recouped 100
 
 ## Recommendation
 - I would recommend the marketing experts to invest more in sources 1 and 2 and cut costs on plaform 3; without plaform 3, revenues would exceed cost.
-
 
 ## Libraries Used
 - Pandas 
