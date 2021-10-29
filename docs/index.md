@@ -31,7 +31,7 @@ Unsuprisingly, sessions per day mimics visits per day.
 ##  User Retention by Cohort
 The June 2017 cohort had the highest retention rate as at month 11. By the first month (month 1), all cohorts had retention rates less than 10%. 
 <p align ="center">
-   <img src = "images/retention.png">
+   <img src = "images/retention.PNG">
  </p>
  
  
