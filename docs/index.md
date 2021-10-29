@@ -1,6 +1,6 @@
 # Business Metrics of Yandex Afisha
 <p align ="center">
-   <img src = "images/business metrics.jpg"  width="1000" 
+   <img src = "images/yandex-metrica.jpg"  width="1000" 
      height="450">
  </p>
 ## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/business_metrics_yandex_afisha_nti/blob/master/business_metrics_nti.ipynb) 
