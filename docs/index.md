@@ -15,7 +15,7 @@
 - Conclusion and recommendation
 
 ## Daily Visits to Yandex Afisha
-Amazingly, 24 November, 2017, was a black friday. It had the highest number of visits to Yandex Afesha. 
+Amazingly, 24 November, 2017 was a black friday; it had the highest number of visits to Yandex Afesha. 
 March 31, 2018 was a popular holiday plus observances Worldwide. This means, holidays affected visits to Yandex Afisha but black friday stimulated visits.
 <p align ="center">
    <img src = "images/daily visits.png">
