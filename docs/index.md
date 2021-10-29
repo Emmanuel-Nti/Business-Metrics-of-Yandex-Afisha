@@ -18,14 +18,14 @@
 Amazingly, 24 November, 2017 was a black friday; it had the highest number of visits to Yandex Afesha. 
 March 31, 2018 was a popular holiday plus observances Worldwide. This means, holidays affected visits to Yandex Afisha but black friday stimulated visits.
 <p align ="center">
-   <img src = "images/daily visits.png">
+   <img src = "images/daily visitss.png">
  </p>
 
 
 ## Sessions Per Day Vs Visits Per Day
 Unsuprisingly, sessions per day mimics visits per day.
 <p align ="center">
-   <img src = "images/sessions per day.png">
+   <img src = "images/sessions per dayy.png">
  </p>
  
 ##  User Retention by Cohort
