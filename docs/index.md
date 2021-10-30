@@ -12,7 +12,7 @@
   - Products: Visits to the product, sessions, retention
   - Sales: Orders, Lifetime Value (LTV), Customer Acquisition Cost(CAC)
   - Marketing: Return on Marketing Investment (ROMI)
-- Conclusion and recommendation
+- Conclusion and recommendations
 
 ## Daily Visits to Yandex Afisha
 Amazingly, 24 November, 2017 was a black friday; it had the highest number of visits to Yandex Afesha. 
@@ -71,8 +71,9 @@ May 2018 cohort had the lowest return on investments. No cohort has recouped 100
 - Platforms 1 and 2 brings in the highest revenue, and amongst the least in cost. They are the most profitable platforms.
 - The investments in all the sources are not yet worthwhile as the highest (source 1) is yet to recoup 100% of investment. Also, investments by cohorts is not yet worthwhile.
 
-## Recommendation
+## Recommendations
 - I would recommend the marketing experts to invest more in sources 1 and 2 and cut costs on plaform 3; without plaform 3, revenues would exceed cost.
+- Introduce strategies to boost rentention rate; improve user experience with the app.
 
 ## Libraries Used
 - Pandas 
