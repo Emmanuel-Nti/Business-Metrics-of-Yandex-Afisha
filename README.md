@@ -1,6 +1,6 @@
 # Business Metrics of Yandex Afisha
 ### [Project Summary](https://emmanuel-nti.github.io/Business-Metrics-of-Yandex-Afisha/)
-### [Detailed Project](https://nbviewer.jupyter.org/github/Emmanuel-Nti/business_metrics_yandex_afisha_nti/blob/master/business_metrics_nti.ipynb)
+### [Detailed Project](https://nbviewer.org/github/Emmanuel-Nti/Business-Metrics-of-Yandex-Afisha/blob/master/business_metrics_nti.ipynb)
 
 
 | Project Description | Libraries Used | Source of Data |
