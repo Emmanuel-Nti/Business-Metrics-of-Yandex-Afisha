@@ -3,7 +3,7 @@
    <img src = "images/yandex-metrica.jpg"  width="1000" 
      height="450">
  </p>
-## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/business_metrics_yandex_afisha_nti/blob/master/business_metrics_nti.ipynb) 
+## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/Business-Metrics-of-Yandex-Afisha/blob/master/business_metrics_nti.ipynb) 
 
 ## How I Approached the Project
 - Importation of the data and libraries
