@@ -58,7 +58,7 @@ May 2018 cohort had the lowest return on investments. No cohort has recouped 100
  </p>
 
 ## General Findings
-- On average, about 907 people use Yandex.Afisha every day, about 5621 people use Yandex Afisha every week, and about 23228 people use Yandex Afisha every month.
+- On average, about 907 people use the Yandex Afisha app everyday, about 5621 people use it every week, and about 23228 people use it every month.
 - The highest daily visits occur on a black friday and the lowest daily visits occur on a holiday
 - On average, there is about 1 session per day, and each session lasts about 60 seconds.
 - By the first month (month 1), all cohorts had retention rates less than 10%. None of the May 2018 cohort came back after their first visit. Only June 2017 cohort were retained till month 11.
