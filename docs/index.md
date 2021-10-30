@@ -54,7 +54,7 @@ CAC per cohorts shows a uniform but different costs for each cohort.The August 2
 The September 2017 cohort had the highest return on investments, followed by the June 2017 cohort. 
 May 2018 cohort had the lowest return on investments. No cohort has recouped 100% of invesments.
 <p align ="center">
-   <img src = "images/romi.PNG">
+   <img src = "images/romis.PNG">
  </p>
 
 ## General Findings
