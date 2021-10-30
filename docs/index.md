@@ -79,4 +79,4 @@ May 2018 cohort had the lowest return on investments. No cohort has recouped 100
 - Numpy 
 - Seaborn 
 - Plotly
-- Matplotlib   
+- Matplotlib    
