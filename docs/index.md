@@ -15,8 +15,8 @@
 - Conclusion and recommendations
 
 ## Daily Visits to Yandex Afisha
-Amazingly, 24 November, 2017 was a black friday; it had the highest number of visits to Yandex Afesha. 
-March 31, 2018 was a popular holiday plus observances Worldwide. This means, holidays affected visits to Yandex Afisha but black friday stimulated visits.
+Amazingly, 24 November, 2017 was a black friday; it had the highest number of visits to the Yandex Afesha app. 
+March 31, 2018 was a popular holiday plus observances Worldwide; a holiday can adversely impact visits to the Yandex Afisha but black friday stimulated visits.
 <p align ="center">
    <img src = "images/daily visitss.png">
  </p>
@@ -37,7 +37,7 @@ The June 2017 cohort had the highest retention rate as at month 11. By the first
  
 ## LTV Cohort Analysis
 The June 2017 cohort had the longest duration of LTV; contributed the longest time. However, the September 2017 cohort had the highest LTV. 
-May and June 2018 cohorts had the least LTVs.
+June 2018 cohorts had the least LTV.
 <p align ="center">
    <img src = "images/ltv.PNG">
  </p>
