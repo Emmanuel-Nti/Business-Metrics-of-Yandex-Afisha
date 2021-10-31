@@ -37,7 +37,7 @@ The June 2017 cohort had the highest retention rate as at month 11. By the first
  
 ## LTV Cohort Analysis
 The June 2017 cohort had the longest duration of LTV; contributed the longest time. However, the September 2017 cohort had the highest LTV. 
-June 2018 cohorts had the least LTV.
+June 2018 cohort had the least LTV.
 <p align ="center">
    <img src = "images/ltv.PNG">
  </p>
