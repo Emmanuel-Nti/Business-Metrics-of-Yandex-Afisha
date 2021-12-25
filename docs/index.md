@@ -3,6 +3,7 @@
    <img src = "images/yandex-metrica.jpg"  width="1000" 
      height="450">
  </p>
+ 
 ## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/Business-Metrics-of-Yandex-Afisha/blob/master/business_metrics_nti.ipynb) 
 
 ## How I Approached the Project
