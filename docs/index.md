@@ -20,13 +20,6 @@ March 31, 2018 was a popular holiday plus observances Worldwide; a holiday can a
 <p align ="center">
    <img src = "images/daily visitss.png">
  </p>
-
-
-## Sessions Per Day Vs Visits Per Day
-Unsuprisingly, sessions per day mimics visits per day.
-<p align ="center">
-   <img src = "images/sessions per dayy.png">
- </p>
  
 ##  User Retention by Cohort
 The June 2017 cohort had the highest retention rate as at month 11. By the first month (month 1), all cohorts had retention rates less than 10%. 
@@ -72,7 +65,7 @@ May 2018 cohort had the lowest return on investments. No cohort has recouped 100
 - The investments in all the sources are not yet worthwhile as the highest (source 1) is yet to recoup 100% of investment. Also, investments by cohorts is not yet worthwhile.
 
 ## Recommendations
-- I would recommend the marketing experts to invest more in sources 1 and 2 and cut costs on plaform 3; without plaform 3, revenues would exceed cost.
+- Invest more in sources 1 and 2, and cut costs on plaform 3; without plaform 3, revenues would exceed cost.
 - Introduce strategies to boost rentention rate; improve user experience with the app.
 
 ## Libraries Used
