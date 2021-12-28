@@ -37,7 +37,7 @@ June 2018 cohort had the least LTV.
  </p>
  
  
-## CAC Cohort Analysis
+#### CAC Cohort Analysis
 CAC per cohorts shows a uniform but different costs for each cohort.The August 2017 cohort had the highest cost in a given month while the May 2018 cohort had the least.
 <p align ="center">
    <img src = "images/cac.PNG">
