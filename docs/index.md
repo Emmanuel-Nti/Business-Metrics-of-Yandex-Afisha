@@ -1,6 +1,6 @@
 # Business Metrics of Yandex Afisha
 <p align ="center">
-   <img src = "images/yandex-metrica.jpg"  width="900" 
+   <img src = "images/yandex-metrica.jpg"  width="1000" 
      height="450">
  </p>
  
@@ -19,7 +19,7 @@
 Amazingly, 24 November, 2017 was a black friday; it had the highest number of visits to the Yandex Afesha app. 
 March 31, 2018 was a popular holiday plus observances Worldwide; a holiday can adversely impact visits to Yandex Afisha but black friday stimulated visits.
 <p align ="center">
-   <img src = "images/daily visitss.png"  width="900" 
+   <img src = "images/daily visitss.png"  width="1000" 
      height="450">
  </p>
  
