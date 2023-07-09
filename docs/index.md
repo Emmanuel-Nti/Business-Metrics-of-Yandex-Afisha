@@ -35,14 +35,16 @@ The June 2017 cohort had the highest retention rate as at month 11. By the first
 The June 2017 cohort had the longest duration of LTV; contributed the longest time. However, the September 2017 cohort had the highest LTV. 
 June 2018 cohort had the least LTV.
 <p align ="center">
-   <img src = "images/ltv.png" >
+   <img src = "images/ltv.png" width="1000" 
+     height="600" >
  </p>
  
  
 #### CAC Cohort Analysis
 CAC per cohorts shows a uniform but different costs for each cohort.The August 2017 cohort had the highest cost in a given month while the May 2018 cohort had the least.
 <p align ="center">
-   <img src = "images/cac.png"  >
+   <img src = "images/cac.png" width="1000" 
+     height="600" >
  </p>
  
  
@@ -50,7 +52,8 @@ CAC per cohorts shows a uniform but different costs for each cohort.The August 2
 The September 2017 cohort had the highest return on investments, followed by the June 2017 cohort. 
 May 2018 cohort had the lowest return on investments. No cohort has recouped 100% of invesments.
 <p align ="center">
-   <img src = "images/romis.png" >
+   <img src = "images/romis.png" width="1000" 
+     height="600">
  </p>
 
 #### General Findings
