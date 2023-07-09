@@ -4,7 +4,7 @@
      height="450">
  </p>
  
-## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/Business-Metrics-of-Yandex-Afisha/blob/master/business_metrics_e_nti.ipynb) 
+## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/Business-Metrics-of-Yandex-Afisha/blob/master/cohorts_analysis.ipynb) 
 
 #### How I Approached the Project
 - Importation of the data and libraries
