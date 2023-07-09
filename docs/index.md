@@ -27,7 +27,7 @@ March 31, 2018 was a popular holiday plus observances Worldwide; a holiday can a
 The June 2017 cohort had the highest retention rate as at month 11. By the first month (month 1), all cohorts had retention rates less than 10%. 
 <p align ="center">
    <img src = "images/retention.png"   width="1000" 
-     height="600" >
+     height="550" >
  </p>
  
  
