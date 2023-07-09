@@ -36,7 +36,7 @@ The June 2017 cohort had the longest duration of LTV; contributed the longest ti
 June 2018 cohort had the least LTV.
 <p align ="center">
    <img src = "images/ltv.png" width="1000" 
-     height="600" >
+     height="550" >
  </p>
  
  
@@ -44,7 +44,7 @@ June 2018 cohort had the least LTV.
 CAC per cohorts shows a uniform but different costs for each cohort.The August 2017 cohort had the highest cost in a given month while the May 2018 cohort had the least.
 <p align ="center">
    <img src = "images/cac.png" width="1000" 
-     height="600" >
+     height="550" >
  </p>
  
  
@@ -53,7 +53,7 @@ The September 2017 cohort had the highest return on investments, followed by the
 May 2018 cohort had the lowest return on investments. No cohort has recouped 100% of invesments.
 <p align ="center">
    <img src = "images/romis.png" width="1000" 
-     height="600">
+     height="550">
  </p>
 
 #### General Findings
